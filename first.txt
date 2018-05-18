@@ -1,1 +1,1 @@
-apxor
+settings
